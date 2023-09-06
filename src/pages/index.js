@@ -1,0 +1,8 @@
+export {default as HomePage} from './homePage'
+export {default as NewsPage} from './newsPage'
+export {default as SchedulePage} from './schedulePage'
+export {default as WorksPage} from './worksPage'
+export {default as DiscographyPage} from './discographyPage'
+export {default as ContactPage} from './contactPage'
+export {default as BiographyPage} from './biographyPage'
+export {default as EquipmentPage} from './equipmentPage'
